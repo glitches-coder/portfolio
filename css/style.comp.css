@@ -444,7 +444,8 @@
   width: 21rem;
   border-radius: 43px;
   background: #F5F3F3;
-  box-shadow: 9px 9px 18px #e4e2e2, -9px -9px 18px #ffffff; }
+  box-shadow: 9px 9px 18px #e4e2e2,
+ -9px -9px 18px #ffffff; }
   .div3a:hover {
     transform: translateY(-1.5rem) scale(1.1);
     transition: all ease 0.3s; }
@@ -455,7 +456,8 @@
   width: 21rem;
   border-radius: 43px;
   background: #F5F3F3;
-  box-shadow: 9px 9px 18px #e4e2e2, -9px -9px 18px #ffffff; }
+  box-shadow: 9px 9px 18px #e4e2e2,
+ -9px -9px 18px #ffffff; }
   .div4a:hover {
     transform: translateY(-1.5rem) scale(1.1);
     transition: all ease 0.3s; }
@@ -466,7 +468,8 @@
   width: 21rem;
   border-radius: 43px;
   background: #F5F3F3;
-  box-shadow: 9px 9px 18px #e4e2e2, -9px -9px 18px #ffffff; }
+  box-shadow: 9px 9px 18px #e4e2e2,
+ -9px -9px 18px #ffffff; }
   .div5a:hover {
     transform: translateY(-1.5rem) scale(1.1);
     transition: all ease 0.3s; }
@@ -479,7 +482,8 @@
   width: 21rem;
   border-radius: 43px;
   background: #F5F3F3;
-  box-shadow: 9px 9px 18px #e4e2e2, -9px -9px 18px #ffffff;
+  box-shadow: 9px 9px 18px #e4e2e2,
+ -9px -9px 18px #ffffff;
   z-index: 100; }
   .div6a:hover {
     transform: translateY(-1.5rem) scale(1.1);
@@ -677,13 +681,15 @@
 .div2d {
   border-radius: 13px;
   background: #f5f3f3;
-  box-shadow: 8px 8px 16px #dad8d8, -8px -8px 16px #ffffff;
+  box-shadow: 8px 8px 16px #dad8d8,
+ -8px -8px 16px #ffffff;
   z-index: 1; }
 
 .div3d {
   border-radius: 13px;
   background: #f5f3f3;
-  box-shadow: 8px 8px 16px #dad8d8, -8px -8px 16px #ffffff;
+  box-shadow: 8px 8px 16px #dad8d8,
+ -8px -8px 16px #ffffff;
   z-index: 1; }
 
 .div4d {
@@ -1144,8 +1150,8 @@
 
 .logo {
   position: relative;
-  top: -.5rem !important;
-  left: -6rem !important;
+    top: -1rem !important;
+    left: -7rem !important;
   display: inline-block;
   left: 1rem; }
   @media only screen and (max-width: 600px) {
@@ -1210,7 +1216,8 @@
   padding: 10px 10px;
   border-radius: 104px;
   background: #ffffffda;
-  box-shadow: 5px 5px 36px #ececec, -5px -5px 36px #f8f3f3;
+  box-shadow: 5px 5px 36px #ececec,
+ -5px -5px 36px #f8f3f3;
   z-index: 100;
   transition: all 0.3s ease-in-out; }
   @media only screen and (max-width: 600px) {
@@ -1379,7 +1386,8 @@
   background: #E2E3E8;
   border-radius: 79px;
   background: #E2E3E8;
-  box-shadow: 9px 9px 29px #c9cace, -9px -9px 29px #fbfcff; }
+  box-shadow: 9px 9px 29px #c9cace,
+ -9px -9px 29px #fbfcff; }
 
 .div6 {
   position: relative;
@@ -1389,7 +1397,8 @@
   height: 25rem;
   border-radius: 79px;
   background: #E2E3E8;
-  box-shadow: inset 9px 9px 18px #c9cace, inset -9px -9px 18px #fbfcff; }
+  box-shadow: inset 9px 9px 18px #c9cace,
+ inset -9px -9px 18px #fbfcff; }
 
 .symbl {
   display: inline-block;
@@ -1430,18 +1439,21 @@
 .button {
   border-radius: 56px;
   background: #e2e3e8;
-  box-shadow: 8px 8px 16px #cbccd1, -8px -8px 16px #f9faff;
+  box-shadow: 8px 8px 16px #cbccd1,
+ -8px -8px 16px #f9faff;
   padding: 1.2rem 2.5rem 1.2rem 2.5rem; }
 
 .button:hover {
   border-radius: 16px;
   background: linear-gradient(145deg, #f2f3f8, #cbccd1);
-  box-shadow: 8px 8px 28px #b0b1b5, -8px -8px 28px #ffffff;
+  box-shadow: 8px 8px 28px #b0b1b5,
+ -8px -8px 28px #ffffff;
   transition: all 0.3s ease-in-out; }
   .button:hover:active {
     border-radius: 16px;
     background: #e0e0e0;
-    box-shadow: inset 5px 5px 15px #b5b5b5, inset -5px -5px 15px #ffffff;
+    box-shadow: inset 5px 5px 15px #b5b5b5,
+ inset -5px -5px 15px #ffffff;
     transition: all 0.3s ease-in-out; }
 
 .btn-des:active {
