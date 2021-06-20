@@ -1,6 +1,4 @@
-function refreshPage() {
-    location.reload();
-}
+
 
 
 const nav = document.querySelector('.nav')
