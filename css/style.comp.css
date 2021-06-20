@@ -1151,7 +1151,7 @@
 .logo {
   position: relative;
     top: -1rem !important;
-    left: -3rem !important;
+    left: 2rem !important;
   display: inline-block;
   left: 1rem; }
   @media only screen and (max-width: 600px) {
